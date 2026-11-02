@@ -1,0 +1,27 @@
+Wat is JSX en waarom kiest React hiervoor?
+JSX (JavaScript XML) is een syntax-uitbreiding voor JavaScript waarmee je HTML-achtige structuur rechtstreeks in je JavaScript-code kunt schrijven. React kiest hiervoor omdat je op deze manier de volledige kracht van JavaScript (zoals variabelen, loops en voorwaarden) direct kunt combineren met de UI-structuur, zonder dat je afhankelijk bent van losse HTML-bestanden.
+
+Belangrijkste voordeel:
+Het grootste voordeel vind ik dat je logica en weergave (UI) op één logische plek binnen je component houdt, wat de code overzichtelijker en makkelijker te onderhouden maakt.
+
+
+Wat is JSX?
+JSX staat voor JavaScript XML; het is een syntax-uitbreiding voor JavaScript waarmee je HTML-achtige code kunt schrijven binnen je JavaScript-bestanden.
+
+Waarom is JSX geen gewone HTML?
+Omdat browsers geen JSX begrijpen. JSX wordt dooralen tools (zoals Vite/Babel) achter de schermen omgezet naar echte JavaScript function-calls (React.createElement).
+
+Waarom gebruiken we className in plaats van class?
+Omdat class in JavaScript al een gereserveerd trefwoord is voor het maken van classes in Object-Oriented Programming (OOP).
+
+Waarom vervangen we de standaard Vite CSS?
+Zodat iedereen in de klas met dezelfde strakke, eenvoudige basisopmaak werkt en de voorbeelden voor de Game Collection overzichtelijk blijven.
+
+Wat is de functie van App.css?
+Dit bestand bevat de specifieke stijlen (styling) die horen bij de App-component.
+
+Wat is de functie van index.css?
+Dit bestand regelt de algemene, globale styling voor de hele applicatie (zoals de achtergrondkleur van de body en margins).
+
+Wat is Hot Reloading?
+Een techniek waarbij de browser automatisch de wijzigingen bijwerkt zodra je een bestand opslaat, zonder dat je de hele pagina handmatig hoeft te verversen.

@@ -1,0 +1,34 @@
+Les 1 
+
+
+AI-opdracht
+Wat is React?
+Zie HTML als het handmatig bouwen van een lego-kasteel waar je voor elk identiek torentje elk steentje apart neerzet. React is alsof je één keer een torentje bouwt en daar een stempel van maakt; je drukt hem zo vaak af als je wilt.
+
+Vergelijking & Keuze:
+Deze les legde het heel pragmatisch uit met het voorbeeld van 200 games schrijven. De AI-uitleg met de legostempel vond ik net iets beeldender omdat het direct visueel maakt waarom componenten zo krachtig zijn voor hergebruik.
+
+Kennischeck Antwoorden
+Wat is React?
+React is een populaire open-source JavaScript-library (ontwikkeld door Meta) voor het bouwen van moderne, interactieve gebruikersinterfaces (UI) met behulp van herbruikbare componenten.
+
+Waarom gebruiken veel bedrijven React?
+Omdat het efficiënt werkt met componenten, een hele snelle rendering heeft via de Virtual DOM, en grote applicaties daardoor overzichtelijk en schaalbaar blijven.
+
+Wat is het verschil tussen Front-end en Back-end?
+
+Front-end: Alles wat de gebruiker direct ziet en gebruikt in de browser (HTML, CSS, JS, React).
+
+Back-end: De logica achter de schermen, zoals databases, servers en API's (bijv. PHP / Laravel).
+
+Waarom gebruiken we Vite?
+Vite is een hele snelle ontwikkelomgeving voor moderne front-end projecten met ingebouwde Hot Reloading, waardoor wijzigingen direct in je browser zichtbaar zijn.
+
+Wat is de functie van App.jsx?
+Dit is de hoofdcomponent van de applicatie waarin al je losse onderdelen (componenten) en de lay-out samenkomen.
+
+Wat is de functie van main.jsx?
+Dit is het officiële startpunt van de React-code; het koppelt de App-component aan het HTML-bestand (index.html).
+
+Waarom gebruiken we GitHub tijdens deze module?
+Om versiebeheer toe te passen, je code veilig op te slaan in de cloud en je voortgang stap voor stap te documenteren.
